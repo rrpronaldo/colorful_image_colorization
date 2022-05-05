@@ -2,7 +2,7 @@
 
 ## Zhang et al. Project
 
-This is a experimentation/implementation of the paper from [Richard Zhang](https://richzhang.github.io/), [Phillip Isola](http://web.mit.edu/phillipi/), [Alexei A. Efros](http://www.eecs.berkeley.edu/~efros/). In [ECCV, 2016](http://arxiv.org/pdf/1603.08511.pdf),
+This is an experimentation/implementation of the paper from [Richard Zhang](https://richzhang.github.io/), [Phillip Isola](http://web.mit.edu/phillipi/), [Alexei A. Efros](http://www.eecs.berkeley.edu/~efros/). In [ECCV, 2016](http://arxiv.org/pdf/1603.08511.pdf),
 available in the [GitHub Repository](https://github.com/richzhang/colorization). 
 
 Convolutional Neural Networks was the technique that Zhang et al. used to image colorization. The propose is to forecast what an input grayscale image would looks like when colorized. The architecture of neural network is showed in the image bellow:
